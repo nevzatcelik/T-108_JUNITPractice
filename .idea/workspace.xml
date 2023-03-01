@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21e6a2e1-5ce8-4e19-9e5e-713d0fe2e3bf" name="Changes" comment="" />
+    <list default="true" id="21e6a2e1-5ce8-4e19-9e5e-713d0fe2e3bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +19,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MK27oASX3yLFM9laCQcxpW36mB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -31,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.DriverMethods.test01">
+  <component name="RunManager" selected="JUnit.googleTest.googleTest">
     <configuration name="DriverMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="T-108_JUNIT" />
       <extension name="coverage">
@@ -63,8 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="googleTest.googleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="T-108_JUNIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day02" />
+      <option name="MAIN_CLASS_NAME" value="day02.googleTest" />
+      <option name="METHOD_NAME" value="googleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.googleTest.googleTest" />
         <item itemvalue="JUnit.DriverMethods.test01" />
         <item itemvalue="JUnit.DriverMethods" />
       </list>
@@ -80,5 +105,16 @@
       <updated>1677501789506</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
