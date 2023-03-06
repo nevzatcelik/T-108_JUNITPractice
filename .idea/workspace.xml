@@ -39,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.googleTest.googleTest">
+  <component name="RunManager" selected="JUnit.kiwiTest.testKiwi">
     <configuration name="DriverMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="T-108_JUNIT" />
       <extension name="coverage">
@@ -87,8 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kiwiTest.testKiwi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="T-108_JUNIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day03" />
+      <option name="MAIN_CLASS_NAME" value="day03.kiwiTest" />
+      <option name="METHOD_NAME" value="testKiwi" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.kiwiTest.testKiwi" />
         <item itemvalue="JUnit.googleTest.googleTest" />
         <item itemvalue="JUnit.DriverMethods.test01" />
         <item itemvalue="JUnit.DriverMethods" />
